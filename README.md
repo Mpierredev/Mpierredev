@@ -37,7 +37,7 @@ Aqui estão os projetos que melhor demonstram minha capacidade analítica e téc
   <a href="https://www.linkedin.com/in/marcio-pierre-santos-monteiro-731a3735b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:marciopierresantos@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=marciopierresantos@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://wa.me/5579996506624" target="_blank">
