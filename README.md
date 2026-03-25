@@ -1,14 +1,19 @@
-# Olá! Eu sou o Márcio Pierre 👋
+# Márcio Pierre 
 
 **Analista de Dados | Business Intelligence**
 
-Transformo dados brutos em insights acionáveis e painéis executivos para suportar a tomada de decisão. Tenho foco em modelagem de dados, análise exploratória e data storytelling, construindo soluções de ponta a ponta.
+Construo soluções de BI de ponta a ponta: da extração e modelagem de dados (Python/SQL) até o Data Storytelling em painéis executivos.
 
 ### 🛠️ Stack Tecnológico
-* **Banco de Dados & SQL:** PostgreSQL, Modelagem, Views, Window Functions
-* **Linguagens:** Python (Pandas, SQLAlchemy)
-* **Visualização & BI:** Tableau
-* **Ferramentas:** Git, GitHub, DBeaver, Jupyter
+
+<div align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</div>
 
 ---
 
@@ -27,5 +32,15 @@ Aqui estão os projetos que melhor demonstram minha capacidade analítica e téc
 ---
 
 ### 📫 Como me encontrar
-* **LinkedIn:** [Márcio Pierre Santos Monteiro]([SEU-LINK-AQUI](https://www.linkedin.com/in/marcio-pierre-santos-monteiro-731a3735b/))
-* **E-mail:** marciopierresantos@gmail.com
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/marcio-pierre-santos-monteiro-731a3735b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:marciopierresantos@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://wa.me/55799966246590" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</div>
